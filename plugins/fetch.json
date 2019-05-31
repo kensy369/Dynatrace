@@ -1,0 +1,10 @@
+{
+  "dynatrace-cordova-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "dynatrace-cordova-plugin@7.2.4-1005"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
